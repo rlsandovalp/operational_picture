@@ -19,5 +19,7 @@ ytick.minor.visible:False
 ytick.major.size:0
 
 # Remove legend box
-legend.frameon: False
+legend.frameon: True
+legend.framealpha:    0.8
 legend.fontsize: 9
+legend.facecolor: 'white'
